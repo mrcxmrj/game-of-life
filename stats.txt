@@ -1,0 +1,5 @@
+Days: 39
+Number of animals: 62
+Number of plants: 57
+Average animal energy: 123.9274193548387
+Average animal life expectancy: 11.615384615384615
